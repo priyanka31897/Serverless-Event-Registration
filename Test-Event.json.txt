@@ -1,0 +1,5 @@
+{
+  "eventId": "AWS_EVENT_01",
+  "name": "Priyanka",
+  "email": "priyanka@gmail.com"
+}
